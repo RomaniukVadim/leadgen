@@ -1,0 +1,5 @@
+body {font-family: 'Roboto', sans-serif; color: #ffffff;}
+.documentation-main {width: 1200px; margin: 10% auto 0; text-align: center}
+.documentation-main img {margin: 0 20px}
+h1 {font-size: 28px; text-transform: uppercase;}
+p {width: 60%; margin: 0 auto; color: #c2c2c2; margin-bottom: 10%}

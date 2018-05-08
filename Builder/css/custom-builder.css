@@ -1,0 +1,396 @@
+.no-margin-left {margin-left: 0 !important;}
+
+.btn-embossed {
+    box-shadow: 0 0px 0 rgba(0, 0, 0, 0) inset;
+}
+.btn {
+    border-radius: 2px;
+    padding: 8px 15px; 
+    font-size: 13px;
+    margin-left: 5px;
+}
+.menu .main ul > li:nth-child(odd) {
+    background-color: #304356;
+}
+.menu .main ul > li > a {
+    font-size: 15px;
+    color: #ecf0f1;
+    display: block;
+    line-height: 39px;
+    padding-left: 20px;
+    transition: color 0.5s ease 0s;
+}
+.menu .main ul {
+    margin: 0;
+    padding: 0;
+}
+.menu .second ul {
+    padding: 10px 0 25px;
+}
+.menu .main ul#elementCats > li > a:hover, .menu .main ul#templatesUl > li > a:hover, .menu .main ul#elementCats > li > a.active, .menu .main ul#templatesUl > li > a.active {
+    background: #1f2e3c none repeat scroll 0 0;
+    color: #fff;
+}
+.menu .main {
+    width: 236px;
+}
+.main .sideButtons {
+    margin-bottom: 15px;
+    margin-left: 20px;
+    width: 170px;
+}
+.main .sideButtons > * {
+    margin: 0;
+    width: 100%;
+}
+.btn span {
+    padding-right: 3px;
+}
+.menu .main h3 > span {
+    font-size: 15px;
+    padding-right: 5px;
+    margin-left: 10px;
+}
+
+.menu .main h3 {
+    font-size: 15px;
+    margin: 0px 0px 20px 10px;
+    letter-spacing: 1px;
+}
+
+header{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+body {
+    background-color: #ecf0f1
+}
+
+header.affix {
+    box-shadow: 0 4px 0 rgba(0, 0, 0, 0.08);
+    padding-left: 2.3%;
+    padding-right: 2.3%;
+    
+}
+header.clearfix {
+    min-height: 55px;
+    position: fixed;
+    z-index: 1040;
+}
+
+.checkbox, .radio {
+    margin-bottom: 7px;
+}
+
+header .modes {
+    margin: 5px 0 0 60px;
+}
+
+.main > .sideButtons {
+    margin-bottom: 15px;
+}
+
+.pages-border {
+    background: #1f2e3c;
+    padding: 20px 0 20px 10px;
+    margin: 0 !important;
+}
+
+.menu .main ul#pages li.active {
+    background: #293a4b;
+}
+
+.export-import-btn {
+    margin-bottom: 30px !important;
+    border-radius: 2px;
+    background: #e74c3c;
+    border: 0;
+    padding: 6px 15px;
+    font-size: 13px;
+    color: #ffffff;
+}
+.export-import-btn span {
+    padding-right: 5px;
+}
+
+.menu .toggle {
+    box-shadow: 0px 0 0 rgba(0, 0, 0, 0);
+}
+
+.menu .toggle span {
+    font-size: 18px;
+}
+
+.menu .main ul#pages {
+    margin-bottom: 25px;
+}
+
+.menu .main ul#pages li input { float: none; margin: 0px 0 0; padding: 0 0 0 20px; font-size: 15px;}
+.menu .main ul#pages li > a { float: none; clear: both; top: 0}
+.menu .main ul#pages li.active > span.pageButtons { margin-top: 5px; }
+.menu .main ul#pages li > span a.btn { top: 0;}
+.menu .main ul#pages li.active .menuItemLink { float: left !important; width: 65%; position: relative; top: -3px; }
+.menu .main ul#pages li.active > span.pageButtons .fileSave { margin-top: -2px; }
+
+.menu .second {
+    background: #16222d;
+    overflow: hidden !important;
+    left: 236px;
+}
+
+.menu .second ul li.element > img {
+    box-shadow: 0 0 6px rgba(0, 0, 0, .5);
+}
+
+.tz-seo-btn {
+    background: #f1c40f;
+}
+
+.form-horizontal .control-label {
+    text-align: left;
+}
+
+.modal-title {
+    font-size: 20px;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.text-primary {
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.form-control, .select2-search input[type="text"] {
+    border: 1px solid #d1d1d1;
+    line-height: 1.42857;
+}
+
+.optionPane {
+    border: 0;
+    margin-bottom: 0;
+    padding: 8px 20px 20px;
+    background: none;
+}
+
+.modal-body {
+    padding: 20px;
+}
+
+.modal-header {
+    background: #3498db;
+    border: 0;
+    border-radius: 5px 5px 0 0px;
+}
+
+.modal-content {
+    border-radius: 7px 7px 5px 5px;
+}
+
+.modal-lg {
+    width: 740px;
+}
+
+.modal-dialog {
+    width: 680px;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.form-group:last-child {
+    margin-bottom: 0px;
+}
+
+.modal-header .close {
+    color: #ffffff;
+    text-shadow: none;
+    opacity: 1;
+    font-size: 14px;
+}
+
+.styleEditor .sideButtons button {
+    width: 32%;
+}
+
+.tz-position {
+    position: inherit !important;
+}
+
+.btn-click-here {
+    margin: 0;
+    padding: 6px 10px 5px;;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.tz-notice {
+    font-size: 13px;
+    display: inline-block;
+    margin-left: 15px;
+    color: #90989f;
+}
+
+.form-type {
+    border: 1px solid #d1d1d1;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.4;
+    padding: 7px 30px 7px 10px;
+    background-color: transparent;
+    margin-left: 10px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    cursor: pointer;
+    font-size:13px;
+    overflow: hidden;
+    background: #fff url("../images/select-arrow.png") no-repeat 94% 50%;
+}
+
+.tz-google-recaptcha {
+    margin-top: 10px;
+}
+
+.preview-notice {
+    margin: 10px;
+}
+
+.save-section {
+    margin-bottom: 10px;
+}
+
+.save-notice { 
+    margin: 0 0 10px 0;
+}
+
+.save-project button { 
+    margin-left: 0;
+}
+.screen { 
+    margin-top: 59px;
+}
+
+.import-section form form .col-sm-12 { display: table;}
+.file-upload {visibility: hidden; position: absolute;}
+.import-section .form-group { display: inline-block; width: 90%;}
+.import-section .import-title {margin: 0 0 10px 0;}
+.import-section .input-group input {font-size: 14px; height: 40px; border-radius: 3px;}
+.import-section .input-group-btn:last-child .btn { border: 0; background: #3498db; height: 40px; color: #ffffff;}
+.import-section .input-group-btn:last-child .btn i { padding-right: 5px;}
+.modal-dialog {width: 700px !important;}
+.modal-content {width: 700px !important;}
+.import-section .tz-notice { margin-left: 0; font-size: 12px;}
+.save-section { padding-top: 37px; padding-bottom: 37px; border-right: 1px solid #ecf0f1; margin-bottom: 20px; margin-top: 20px;}
+.import-section {margin-bottom: 20px; margin-top: 20px;}
+.styleEditor { box-shadow: 1px 0 5px rgba(0, 0, 0, 0.25); }
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {border:1px solid rgba(0,0,0,.5)}
+.nav-tabs { border-bottom: 1px solid #ddd !important; }
+.styleEditor .nav-tabs li span {margin-right: 4px}
+.styleEditor .form-group > .sp-replacer {border: 1px solid #d1d1d1}
+.select2-drop {border: 1px solid #d1d1d1}
+
+.note-editor .link-dialog { overflow-x: visible !important; overflow-y: visible !important;}
+.note-editor .modal-header .close {color: #ffffff; font-size: 24px; opacity: 1; text-shadow: none; margin-top: 2px;}
+.note-editor .checkbox { padding-left: 10px;}
+.note-editor .checkbox input[type="checkbox"] { margin-top: 10px !important;}
+#editContentModal textarea { font-size: 18px; min-height: 110px; width: 100%; }
+
+.import-section #import-form #file-name {color: #656060 !important;}
+.import-section #import-form  input[type="text"]::-moz-placeholder {color: #656060 !important;}
+/* =============================================================================== */
+#imgContainer {
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+#imgArea {
+    display: inline-block;
+    margin: 6px auto 0 10px;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    vertical-align: top;
+}
+#imgArea img {
+    outline: medium none;
+    vertical-align: middle;
+    width: 16px;
+    float: left;
+    margin: 7px 8px 0 0;
+}
+#imgChange {
+    background-color: #1abc9c;
+    bottom: 0;
+    color: #FFFFFF;
+    display: block;
+    height: 28px;
+    left: 0;
+    line-height: 1.4;
+    text-align: center;
+    width: auto;
+    float: left;
+    padding: 0 10px;
+    border-radius: 2px;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-family: "Lato",Helvetica,Arial,sans-serif;
+    position: relative;
+}
+#imgChange:hover { background-color: #48c9b0;}
+#imgChange input[type="file"] {
+    bottom: 0;
+    cursor: pointer;
+    height: 100%;
+    left: 0;
+    margin: 0;
+    opacity: 0;
+    padding: 0;
+    position: absolute;
+    width: 100%;
+    z-index: 0;
+    
+}
+
+.favicon-tooltip {
+    clear: both;
+    float: left;
+    margin-bottom: 10px;
+    line-height: normal;
+    padding-top: 7px;
+
+}
+
+#imgChange > span {
+    display: block;
+    padding-top: 5px;
+}
+
+/* Progressbar */
+.progressBar {
+    background: none repeat scroll 0 0 #8f8f8f;
+    left:160px;
+    padding: 0;
+    position: absolute;
+    top: 4px;
+    width: 70%;
+    display: none;
+}
+.progressBar .bar {
+    background-color: #000;
+    width: 0%;
+    height: 20px;
+}
+.progressBar .percent {
+    display: inline-block;
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    color: #fff;
+}

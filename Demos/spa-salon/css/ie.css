@@ -1,0 +1,10 @@
+.bg-img-one { background-color: #000; position: relative; z-index: -1}
+.bg-img-one:after {z-index: -1; content:''; opacity: 0.6; top:0px; left: 0px; width:100%; height:100%; position: absolute; background: url("../images/bg-image/spa-slider-03.jpg") center center no-repeat; background-size: cover;}
+.bg-img-two { background-color: #000; position: relative; z-index: -1}
+.bg-img-two:after {z-index: -1; content:''; opacity: 0.6; top:0px; left: 0px; width:100%; height:100%; position: absolute; background: url("../images/bg-image/spa-slider-01.jpg") center center no-repeat; background-size: cover;}
+.bg-img-three { background-color: #000; position: relative; z-index: -1}
+.bg-img-three:after {z-index: -1; content:''; opacity: 0.6; top:0px; left: 0px; width:100%; height:100%; position: absolute; background: url("../images/bg-image/spa-slider-02.jpg") center center no-repeat; background-size: cover;}
+.bg-img-four { background: url("../images/bg-image/restaurant-about-bg2.jpg") center center no-repeat; background-size: cover;}
+.bg-img-five { background: url("../images/bg-image/hero-bg12.jpg") center center no-repeat; background-size: cover;}
+.bg-img-six { background-color: #000; position: relative; z-index: -1}
+.bg-img-six:after {z-index: -1; content:''; opacity: 0.3; top:0px; left: 0px; width:100%; height:100%; position: absolute; background: url("../images/bg-image/hero-bg27.jpg") center center no-repeat; background-size: cover;}

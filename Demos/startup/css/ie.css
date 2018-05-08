@@ -1,0 +1,7 @@
+.bg-img-one { background-color: #000; position: relative; z-index: -1}
+.bg-img-one:after {z-index: -1; content:''; opacity: 0.35; top:0px; left: 0px; width:100%; height:100%; position: absolute; background: url("../images/bg-image/hero-bg41.jpg") center center no-repeat; background-size: cover;}
+.bg-img-two { background: url("../images/bg-image/hero-bg23.jpg") center center no-repeat; background-size: cover;}
+.bg-img-three { background-color: #000; position: relative; z-index: -1}
+.bg-img-three:after {z-index: -1; content:''; opacity: 0.4; top:0px; left: 0px; width:100%; height:100%; position: absolute; background: url("../images/bg-image/restaurant-slider-01.jpg") center center no-repeat; background-size: cover;}
+.bg-img-four { background-color: #000; position: relative; z-index: -1}
+.bg-img-four:after {z-index: -1; content:''; opacity: 0.4; top:0px; left: 0px; width:100%; height:100%; position: absolute; background: url("../images/bg-image/agency-subscribe-bg.jpg") center center no-repeat; background-size: cover;}
